@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "car-app"
+    }
+  },
+  "defaultProject": "car-app",
+  "cli": {
+    "analytics": false
+  }
 }
